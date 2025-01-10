@@ -232,7 +232,7 @@ img {
       border-radius: 100%;
       box-shadow: 0 4px 125px rgba(255, 255, 0, 1);
       transition: transform 1.5s, box-shadow 2s;
-      ;
+      
     }
   }
 
@@ -274,8 +274,6 @@ img {
     &::before {
       transform: translate(-50%, -50%) rotate(0);
       box-shadow: 0 4px 125px rgba(255, 255, 0, 0);
-      ;
-
     }
 
     &::after {
